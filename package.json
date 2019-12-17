@@ -1,15 +1,14 @@
 {
-  "name": "mc-skils",
+  "name": "comandos",
   "version": "1.0.0",
-  "description": "",
-  "main": "bot.js",
+  "main": "ban.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "RealTheGamerYT#5386",
+  "author": "",
   "license": "ISC",
+  "description": "",
   "dependencies": {
-    "discord.js": "^11.5.1",
-    "opusscript": "0.0.7"
+    "discord.js": "^11.5.1"
   }
 }
